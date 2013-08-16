@@ -34,6 +34,7 @@ $0 -f FILE_TO_UPLOAD|-d FILE_TO_DOWNLOAD [-fo HUBIC_FOLDER_NAME] [-n NEW_FILE_NA
 -g : file used to hide encrypted data
 -m : if no -g, make a gif
 -o : local output folder for downloaded file
+-r : GPG key
 -h : help
 
 Exemples for upload :
