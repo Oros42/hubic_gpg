@@ -4,6 +4,13 @@ hubic_gpg
 Bash upload and download file from hubiC  
 
 
+This script can :  
+- upload and download a file
+- make a gpg archive from file or folder
+- hide a gpg archive at the end of a file
+- extract file from a gpg archive
+
+
 Setup
 =====
 
@@ -35,7 +42,7 @@ Parameters
 -d : file to download from hubiC  
 -fo : hubiC folder. Default '/Documents'  
 -n : new name  
--g : file used to hide encrypted data  
+-g : file used to hide encrypted data. Can be a gif, jpg, png, zip, avi, mp4,...  
 -m : if no -g, make a gif  
 -o : local output folder for downloaded file  
 -h : help  
