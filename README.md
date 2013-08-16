@@ -17,6 +17,9 @@ And optionnal Image Magick
 apt-get install imagemagick
 ```
 
+Set your login and password ligne 12 and 13  
+  
+Add execute permission  
 ```shell
 chmod +x hubic_gpg.sh
 ```
